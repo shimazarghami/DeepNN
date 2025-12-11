@@ -130,3 +130,40 @@ with torch.no_grad():
 
 acc = 100 * correct / total
 print(f"\nFinal CIFAR-10 Accuracy = {acc:.2f}%")
+
+#Epoch 1 | train_loss = 1.7834
+#Epoch 2 | train_loss = 1.4694
+#Epoch 3 | train_loss = 1.3291
+#Epoch 4 | train_loss = 1.2085
+#Epoch 5 | train_loss = 1.1289
+#Epoch 6 | train_loss = 1.0708
+#Epoch 7 | train_loss = 1.0021
+#Epoch 8 | train_loss = 0.9709
+#Epoch 9 | train_loss = 0.9205
+#Epoch 10 | train_loss = 0.8868
+#Epoch 11 | train_loss = 0.8541
+#Epoch 12 | train_loss = 0.8244
+#Epoch 13 | train_loss = 0.8033
+#Epoch 14 | train_loss = 0.7762
+#Epoch 15 | train_loss = 0.7560
+#Epoch 16 | train_loss = 0.7443
+#Epoch 17 | train_loss = 0.7348
+#Epoch 18 | train_loss = 0.7195
+#Epoch 19 | train_loss = 0.7195
+#Epoch 20 | train_loss = 0.7162
+#Epoch 21 | train_loss = 0.7171
+#Epoch 22 | train_loss = 0.7135
+#Epoch 23 | train_loss = 0.7123
+#Epoch 24 | train_loss = 0.7130
+#Epoch 25 | train_loss = 0.7167
+#Epoch 26 | train_loss = 0.7223
+#Epoch 27 | train_loss = 0.7240
+#Epoch 28 | train_loss = 0.7279
+#Epoch 29 | train_loss = 0.7273
+#Epoch 30 | train_loss = 0.7321
+#Epoch 31 | train_loss = 0.7302
+#Epoch 32 | train_loss = 0.7346
+#Epoch 33 | train_loss = 0.7312
+#EARLY STOPPING TRIGGERED!
+
+#Final CIFAR-10 Accuracy = 76.75%
